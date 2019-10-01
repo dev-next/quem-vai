@@ -35,8 +35,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+package-lock.json
 
-# TypeScript v1 declaration files
+# Typescript v1 declaration files
 typings/
 
 # Optional npm cache directory
@@ -51,11 +52,16 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
+# Output of 'npm build'
+dist
+lib
+
 # Yarn Integrity file
 .yarn-integrity
 
 # dotenv environment variables file
 .env
 
-# next.js build output
-.next
+#WebStorm IDE
+.idea/
+.editorconfig
