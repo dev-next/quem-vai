@@ -14,9 +14,9 @@ Nesses casos, use o Quem Vai? e escolha alguém para realizar a tarefa :)
 
 # To do list
 
-* Criar tela para gerar as frases;
-* Criar um layout de cartas;
-* Criar botão para exibir uma carta ao clicar;
-* Criar frases para adicionar nas cartas;
-* Criar CRUD para salvar as frases no banco;
-* Traduzir para outras línguas;
+- [ ] Criar tela para gerar as frases;
+- [ ] Criar um layout de cartas;
+- [ ] Criar botão para exibir uma carta ao clicar;
+- [ ] Criar frases para adicionar nas cartas;
+- [ ] Criar CRUD para salvar as frases no banco;
+- [ ] Traduzir para outras línguas;
