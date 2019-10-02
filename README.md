@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/d4ssPCI.png" alt="logo" />
+</p>
+
 ## Quem vai?
 
 Jogo de sorte para decidir quem vai fazer alguma coisa.
